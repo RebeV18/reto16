@@ -1,0 +1,18 @@
+{
+  "name": "reto16",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rebeca Vargas",
+  "license": "ISC",
+  "description": "Reto 16 bootcamp UDD",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "js": "^0.1.0",
+    "uuid": "^11.0.5"
+  }
+}
